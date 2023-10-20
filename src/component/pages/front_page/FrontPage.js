@@ -1,8 +1,9 @@
 import React from "react";
 import "../../styles/style.css";
 import image from "../../../resources/img/favicon.png";
+import gmImg from "../../../resources/img/gmail.png";
 import { AwesomeButton } from "react-awesome-button";
-import 'react-awesome-button/dist/styles.css';
+import "react-awesome-button/dist/styles.css";
 
 export default function FrontPage() {
   return (
@@ -10,17 +11,21 @@ export default function FrontPage() {
       <div className="container-fluid">
         <div className="row">
           <img src={image} alt="user" className="col-sm-12 col-md-4" />
+
           <div className="col-sm-12 col-md-8 frnt-txt">
             <div className="frnt-hdn-txt">
               Hello, it's me
+              
               <div className="frnt-hdn-nm">
                 Hasindu <span className="sub-txt">Eshan</span>
               </div>
+
               <div className="frnt-hdn-desc">
                 As a passionate full-stack developer, I specialize in crafting
                 engaging front-end and back-end applications, backed by years of
                 hands-on experience in web development.
               </div>
+
               <div>
                 <AwesomeButton
                   type="secondary"
@@ -31,6 +36,11 @@ export default function FrontPage() {
                 >
                   More About..
                 </AwesomeButton>
+              </div>
+
+              <div className="em-div">
+                <img src={gmImg} alt="gmail" style={{ width: "50px" }} />
+                <div className="em-txt">hasindueshandesilva@gmail.com</div>
               </div>
             </div>
           </div>
