@@ -31,16 +31,17 @@
 
 .frnt-hdn-txt {
     color: aliceblue;
-    font-family: cursive;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     /* height: 100vh; */
     /* padding-top: 100px; */
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .frnt-grt{
     color: aliceblue;
     font-size: 26px;
-    font-family: cursive;
     font-weight: bold;
     display: flex;
     justify-content: flex-start;
@@ -60,7 +61,7 @@
 
 .frnt-hdn-desc {
     padding-top: 10px;
-    font-size: 16px;
+    font-size: 17px;
     /* padding-right: 20px; */
     text-align: justify;
 }
