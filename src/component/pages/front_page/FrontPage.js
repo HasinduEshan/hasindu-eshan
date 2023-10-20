@@ -9,7 +9,7 @@ export default function FrontPage() {
     <div className="frnt-pg">
       <div className="container-fluid">
         <div className="row">
-          <img src={image} alt="user" className="frnt-img col-sm-12 col-md-4" />
+          <img src={image} alt="user" className="col-sm-12 col-md-4" />
           <div className="col-sm-12 col-md-8 frnt-txt">
             <div className="frnt-hdn-txt">
               Hello, it's me
