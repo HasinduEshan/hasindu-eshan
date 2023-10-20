@@ -85,12 +85,12 @@
 }
 
 .em-div {
-    height: "100px";
-    color: "white";
-    font-size: "16px";
-    display: "flex";
-    justify-content: "flex-start";
-    align-items: "center";
+    height: 100px;
+    color: white;
+    font-size: 16px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 .row {
