@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hasindu-eshan/static/css/main.869d9593.css",
+    "main.css": "/hasindu-eshan/static/css/main.2dff9c76.css",
     "main.js": "/hasindu-eshan/static/js/main.0b039f86.js",
     "static/js/787.0edee7af.chunk.js": "/hasindu-eshan/static/js/787.0edee7af.chunk.js",
     "static/media/favicon.png": "/hasindu-eshan/static/media/favicon.987874d29f13a06bd76e.png",
     "static/media/frontbg.jpg": "/hasindu-eshan/static/media/frontbg.ff802ca531e9bec4674d.jpg",
     "index.html": "/hasindu-eshan/index.html",
-    "main.869d9593.css.map": "/hasindu-eshan/static/css/main.869d9593.css.map",
+    "main.2dff9c76.css.map": "/hasindu-eshan/static/css/main.2dff9c76.css.map",
     "main.0b039f86.js.map": "/hasindu-eshan/static/js/main.0b039f86.js.map",
     "787.0edee7af.chunk.js.map": "/hasindu-eshan/static/js/787.0edee7af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.869d9593.css",
+    "static/css/main.2dff9c76.css",
     "static/js/main.0b039f86.js"
   ]
 }
