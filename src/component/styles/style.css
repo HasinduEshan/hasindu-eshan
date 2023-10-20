@@ -9,9 +9,11 @@
     background-position: center;
     height: 100vh;
     width: 100%;
+    
 }
 .frnt-img{
-    border-radius: 50%;
+    /* border-radius: 50%; */
+    
 }
 .frnt-txt{
     display: flex;
@@ -20,15 +22,55 @@
 }
 .frnt-hdn-txt{
     color: aliceblue;
-    font-size: 30px;
+    font-size: 26px;
     font-family: cursive;
     font-weight: bold;
 }
 .frnt-hdn-nm{
-    font-size: 60px;
+    font-size: 45px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     -webkit-text-fill-color: rgb(191, 185, 185);
 }
 .frnt-hdn-desc{
+    padding-top: 10px;
     font-size: 16px;
+    padding-right: 10px;
+    text-align: justify;
 }
+.aws-btn {
+    --button-default-height: 44px;
+    --button-default-font-size: 14px;
+    --button-default-border-radius: 4px;
+    --button-horizontal-padding: 16px;
+    --button-raise-level: 4px;
+    --button-hover-pressure: 1;
+    --transform-speed: 0.15s;
+    --button-primary-color: #1e88e5;
+    --button-primary-color-dark: #1360a4;
+    --button-primary-color-light: #ffffff;
+    --button-primary-color-hover: #187bd1;
+    --button-primary-color-active: #166dba;
+    --button-primary-border: none;
+    --button-secondary-color: #000000 !important;
+    --button-secondary-color-dark: #44423f !important;
+    --button-secondary-color-light: #fa8500 !important;
+    --button-secondary-color-hover: #383939 !important;
+    --button-secondary-color-active: #383939 !important;
+    --button-secondary-border: 2px solid #938a8a !important;
+    --button-anchor-color: #0e4f88;
+    --button-anchor-color-dark: #072743;
+    --button-anchor-color-light: #ffffff;
+    --button-anchor-color-hover: #0d4a7f;
+    --button-anchor-color-active: #0c4271;
+    --button-anchor-border: none;
+    --button-danger-color: #c42e2e;
+    --button-danger-color-dark: #861f1f;
+    --button-danger-color-light: #ffffff;
+    --button-danger-color-hover: #bc2c2c;
+    --button-danger-color-active: #af2929;
+    --button-danger-border: none;
+    margin-top: 30px !important;
+  }
+  .sub-txt{
+    -webkit-text-fill-color: #fa8500;
+  }
