@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hasindu-eshan/static/css/main.3329bbf6.css",
-    "main.js": "/hasindu-eshan/static/js/main.6e3b3045.js",
+    "main.css": "/hasindu-eshan/static/css/main.237900af.css",
+    "main.js": "/hasindu-eshan/static/js/main.84c267fe.js",
     "static/js/787.0edee7af.chunk.js": "/hasindu-eshan/static/js/787.0edee7af.chunk.js",
     "static/media/favicon.png": "/hasindu-eshan/static/media/favicon.987874d29f13a06bd76e.png",
     "static/media/frontbg.jpg": "/hasindu-eshan/static/media/frontbg.ff802ca531e9bec4674d.jpg",
     "index.html": "/hasindu-eshan/index.html",
-    "main.3329bbf6.css.map": "/hasindu-eshan/static/css/main.3329bbf6.css.map",
-    "main.6e3b3045.js.map": "/hasindu-eshan/static/js/main.6e3b3045.js.map",
+    "main.237900af.css.map": "/hasindu-eshan/static/css/main.237900af.css.map",
+    "main.84c267fe.js.map": "/hasindu-eshan/static/js/main.84c267fe.js.map",
     "787.0edee7af.chunk.js.map": "/hasindu-eshan/static/js/787.0edee7af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3329bbf6.css",
-    "static/js/main.6e3b3045.js"
+    "static/css/main.237900af.css",
+    "static/js/main.84c267fe.js"
   ]
 }
