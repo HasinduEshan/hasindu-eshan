@@ -1,7 +1,7 @@
 {
   "name": "hasindu-eshan",
   "version": "0.1.0",
-  "homepage": "https:/HasinduEshan.github.io/hasindu_eshan_de_silva.git",
+  "homepage": "https:/HasinduEshan.github.io/hasindu-eshan",
   "private": true,
   "dependencies": {
     "@fontsource/muli": "^4.1.0",
@@ -13,6 +13,7 @@
     "react-awesome-button": "^7.0.5",
     "react-bootstrap": "^2.9.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.17.0",
     "react-scripts": "5.0.1",
     "react-scroll-parallax": "^3.4.2",
     "web-vitals": "^2.1.4"
